@@ -1,0 +1,6 @@
+{
+  "name": "PawsUnity - Community Pet Care & Rescue Network",
+  "description": "A comprehensive community platform for pet registration, stray dog tagging with health triage, and gamified lost & found rescue tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
